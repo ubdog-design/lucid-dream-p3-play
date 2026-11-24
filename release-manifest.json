@@ -1,0 +1,1240 @@
+{
+  "origin": "https://lucid-dream-p3.considerateden1.chatgpt.site/",
+  "files": [
+    {
+      "path": "assets/audio/foley/bag-cloth.wav",
+      "bytes": 164960,
+      "sha256": "0852458e2e59541e3d759436c7a6cf8931f50ce6218d7cdecf2527422fc4d7bc"
+    },
+    {
+      "path": "assets/audio/foley/camera.ogg",
+      "bytes": 20520,
+      "sha256": "029dfcb981fdf375fb0ae4657962b3d470e1a073932c3d3aefb15d3d9ba38670"
+    },
+    {
+      "path": "assets/audio/foley/click-1.ogg",
+      "bytes": 18714,
+      "sha256": "bd60e7713a35250f8522a05c7e840adc6eab4f132cef30388ca8b46ca12c3122"
+    },
+    {
+      "path": "assets/audio/foley/click-2.ogg",
+      "bytes": 9487,
+      "sha256": "da523b03e042dde09cf4633615a42ad733cfb35899c5863b0cb9486269c78cd9"
+    },
+    {
+      "path": "assets/audio/foley/click-3.ogg",
+      "bytes": 8908,
+      "sha256": "deb8780085bd83a16bcfc8b1fae3a37e12bc7d6f667aef8830f214f1b82207f2"
+    },
+    {
+      "path": "assets/audio/foley/clock-mechanism.ogg",
+      "bytes": 10872,
+      "sha256": "d8d303624616ab9be2e47d6612fd1f5322425be626d2b4ac62482634f0e5ed13"
+    },
+    {
+      "path": "assets/audio/foley/clock-ratchet.ogg",
+      "bytes": 33021,
+      "sha256": "f37728690c9559d32527b55e25102a1acb7beafdfab7ad12e099285d13d29e01"
+    },
+    {
+      "path": "assets/audio/foley/clock-snap.ogg",
+      "bytes": 27119,
+      "sha256": "373fb40c3f895e04623633057160a217005b04816a957094ae3c3d66fe21dca0"
+    },
+    {
+      "path": "assets/audio/foley/clock-tick-a.wav",
+      "bytes": 59154,
+      "sha256": "b597797e43c9acc583c643b66153db1b9e9abf6fea7c536cb7613654a25bfa18"
+    },
+    {
+      "path": "assets/audio/foley/clock-tick-b.wav",
+      "bytes": 63074,
+      "sha256": "d6f9002cbf5e94060bdca749243bfec53e9402710b47d70c0773a30722a0970a"
+    },
+    {
+      "path": "assets/audio/foley/close.ogg",
+      "bytes": 13395,
+      "sha256": "3061482b8a26e9618c216b08a541e8db6f13da35b39545ca489b46021e88fd3b"
+    },
+    {
+      "path": "assets/audio/foley/cloth.ogg",
+      "bytes": 337262,
+      "sha256": "897c0937041afdf3581427b80a7546f99d219d0008e12ff5500c2afdfa4b7a1e"
+    },
+    {
+      "path": "assets/audio/foley/curtain-rail.mp3",
+      "bytes": 36799,
+      "sha256": "e1cbb930a8a19144be9d37a8c434550dface45fdee5e88efcdf08122f9d60988"
+    },
+    {
+      "path": "assets/audio/foley/ding.ogg",
+      "bytes": 19098,
+      "sha256": "bc69b15effae9314e8afb86229bb83acdab6afd79d552b786f53a4812d902980"
+    },
+    {
+      "path": "assets/audio/foley/duvet-fold.mp3",
+      "bytes": 83520,
+      "sha256": "8a466316ed549760622f77fd80fe12bbe6c2fad4c8b2aa63b42d4d7a4b557554"
+    },
+    {
+      "path": "assets/audio/foley/duvet-lift.mp3",
+      "bytes": 33648,
+      "sha256": "8acce2027a745135b43597048513dbf7c1d9578429c09e6438eb7b6ebde62136"
+    },
+    {
+      "path": "assets/audio/foley/fragment-contact.ogg",
+      "bytes": 17431,
+      "sha256": "9daf6e7e1fc1871acfb063cb25ce050faab559ee6c42fed84bf18a4067f26a4d"
+    },
+    {
+      "path": "assets/audio/foley/fragment-fall.ogg",
+      "bytes": 40266,
+      "sha256": "df317939deadccb4c1b4c83f7b18d549cb0b4d46ed996607d703f1a6122fea6f"
+    },
+    {
+      "path": "assets/audio/foley/jiggle.ogg",
+      "bytes": 32821,
+      "sha256": "d12ac8feaacbd74e0b2fde978979b29c1e710232a82c7630f34a385676d73014"
+    },
+    {
+      "path": "assets/audio/foley/keys.ogg",
+      "bytes": 20971,
+      "sha256": "7feae62edb5f00bff8f798aca958413a058a3ec3c341677235834903291e6fe4"
+    },
+    {
+      "path": "assets/audio/foley/latch.ogg",
+      "bytes": 33021,
+      "sha256": "f37728690c9559d32527b55e25102a1acb7beafdfab7ad12e099285d13d29e01"
+    },
+    {
+      "path": "assets/audio/foley/lift-bell.mp3",
+      "bytes": 16800,
+      "sha256": "27b3cebef1a9770aa3a29d971df06db254971098b5d2aa97f64f7f617e5e25fe"
+    },
+    {
+      "path": "assets/audio/foley/lift-cabin.mp3",
+      "bytes": 304848,
+      "sha256": "58f869cb568484a37c3a7a7d3140b20fa1851fcd49ac8b12a5838116204b6e00"
+    },
+    {
+      "path": "assets/audio/foley/lift-motor.mp3",
+      "bytes": 710400,
+      "sha256": "3d50162b562689ed86c3bfd889c220133e3983c9ad4259f5588ddd37caddf90e"
+    },
+    {
+      "path": "assets/audio/foley/lift-rolling-door.mp3",
+      "bytes": 56040,
+      "sha256": "fc86dc7ce768f6c289dac0b1a7fd66f7c3c6b496b1595bb797e49c7825a1b793"
+    },
+    {
+      "path": "assets/audio/foley/lift.wav",
+      "bytes": 1261972,
+      "sha256": "56307cd725cb7756dd7319487c19b0e5f79968816df228f14803406e875226fa"
+    },
+    {
+      "path": "assets/audio/foley/open.ogg",
+      "bytes": 21440,
+      "sha256": "fcfb63e7920e6655236334d15e9e402b3de62b213739acb603ecafae707c42bc"
+    },
+    {
+      "path": "assets/audio/foley/sip-1.wav",
+      "bytes": 54644,
+      "sha256": "11f6f90b8be847968e868a6a643fbb017c7116959ae3907216357949d8c1fe91"
+    },
+    {
+      "path": "assets/audio/foley/sip-2.wav",
+      "bytes": 49790,
+      "sha256": "4bdeb230f3cdddb87e157f8a44c3bd84a013b8d8b9180c0eafcbb6936dae86ac"
+    },
+    {
+      "path": "assets/audio/foley/soft-hit.ogg",
+      "bytes": 16065,
+      "sha256": "c7723f3c577cc6f46b091233fcb735016c6e15d462b371393baa4d265aef52b6"
+    },
+    {
+      "path": "assets/audio/foley/step-1.ogg",
+      "bytes": 9715,
+      "sha256": "33c9bef5e8aeb1069455699a34a0c5e1ef1787fd3f61594b0859d7e6bb9f9dec"
+    },
+    {
+      "path": "assets/audio/foley/step-2.ogg",
+      "bytes": 10531,
+      "sha256": "f05396c807eb8eaecffb2a1ead611ec971c5a7914d1d081c91d7796e852692a2"
+    },
+    {
+      "path": "assets/audio/foley/step-3.ogg",
+      "bytes": 14136,
+      "sha256": "9817cc93897ed1de5da87675b26be4196bfda3daa6f1de9dc4398a68d250cdb9"
+    },
+    {
+      "path": "assets/audio/foley/vent.ogg",
+      "bytes": 1023564,
+      "sha256": "fd6c831ceede2019c73185fc858b0ab09c71619655125f4f8ecb22d4053d0bbc"
+    },
+    {
+      "path": "assets/audio/foley/zipper.ogg",
+      "bytes": 7689,
+      "sha256": "7929fa8b0a58fe1cd0c5d5064b1b769458ae3cab704ec2b1f3cc7ad675b356ca"
+    },
+    {
+      "path": "assets/audio/mechanical/bay-latch.wav",
+      "bytes": 32684,
+      "sha256": "a7b2ad3f63059231caeb9f22310db1cffa79564fa4113294db3da512ba3c2087"
+    },
+    {
+      "path": "assets/audio/mechanical/deck-align.wav",
+      "bytes": 22124,
+      "sha256": "35e24a00cd2c77c41f1edf21e300af3b3a69d1cc0da2ceda81a686a9faf60d6d"
+    },
+    {
+      "path": "assets/audio/mechanical/deck-bottom.wav",
+      "bytes": 31724,
+      "sha256": "7810bba625e817ea1034e5f287db5ee2849d982338d85e269681c1252f6f5c68"
+    },
+    {
+      "path": "assets/audio/mechanical/deck-drop.wav",
+      "bytes": 29804,
+      "sha256": "d2b58a93e22eaa2c62693e66bd3c730f750867d698dcfd36126be527a5a4075a"
+    },
+    {
+      "path": "assets/audio/mechanical/deck-lock.wav",
+      "bytes": 24044,
+      "sha256": "f21d611b9e43ab98b8562d7e00eab425c7e597b143aba7d1a0a47c2a178dac42"
+    },
+    {
+      "path": "assets/audio/mechanical/deck-rise.wav",
+      "bytes": 39404,
+      "sha256": "263736cae44303e46418222a599c9b1a94516ed8cc2ae1029a71a12ef78f3dc6"
+    },
+    {
+      "path": "assets/audio/mechanical/deck-shuttle.wav",
+      "bytes": 34604,
+      "sha256": "83c9f2c7d5901ab8cea765ffe0d622b66161de6123284b87b1baddde5b53827e"
+    },
+    {
+      "path": "assets/audio/mechanical/deck-unlock.wav",
+      "bytes": 19244,
+      "sha256": "086ef46f3d694497fc7887f930744c56f9a9f8aa20ce65535f0c304d27fe6b08"
+    },
+    {
+      "path": "assets/audio/mechanical/gantry-seat.wav",
+      "bytes": 33644,
+      "sha256": "7c92a7fd7cebe45bc9da3b22529d1013404307b52ae356f1fc5318a3d07e4b06"
+    },
+    {
+      "path": "assets/audio/mechanical/gantry-travel.wav",
+      "bytes": 46124,
+      "sha256": "b183570be67bfc439049224b1f974ad6e47de71cd55d3d4094e84668a3db09d1"
+    },
+    {
+      "path": "assets/audio/mechanical/piston-out.wav",
+      "bytes": 34604,
+      "sha256": "2388507b5b00ec866f7b7c6c4679b90f98ca16cef9661295dc6a35e71e092c8d"
+    },
+    {
+      "path": "assets/audio/mechanical/piston-return.wav",
+      "bytes": 32684,
+      "sha256": "2a4188f7e19c738b7fa7ec198f49f4c0d1d5d8816effb111922072f94d9e1ea1"
+    },
+    {
+      "path": "assets/audio/mechanical/pressure-entry.wav",
+      "bytes": 54764,
+      "sha256": "9625d83b99a93bf1929ca95486e43c2b004af735c69e6d0550f2d82afaef4dbd"
+    },
+    {
+      "path": "assets/audio/mechanical/pressure-seal.wav",
+      "bytes": 69164,
+      "sha256": "c352ac3133dc1931b0636a13385e59441f537ac23468abeae9e41be085755cc3"
+    },
+    {
+      "path": "assets/audio/mechanical/rail-traverse.wav",
+      "bytes": 40364,
+      "sha256": "b4865bad68d971c685bb811e6ae6d71d7b16bfaf35f33c4ed4fc51d64d32b03d"
+    },
+    {
+      "path": "assets/audio/mechanical/sleeve-catch.wav",
+      "bytes": 20204,
+      "sha256": "8c2e58d70d32e02d41b2cc3bf934757dc3fac3d1630db916648ee8300d36befa"
+    },
+    {
+      "path": "assets/audio/mechanical/wall-preload.wav",
+      "bytes": 14444,
+      "sha256": "7af937ce5bb14e230d684ff504bcfea8b38ad633734cd3f3374176ceb1da4b53"
+    },
+    {
+      "path": "assets/audio/mechanical/wall-release.wav",
+      "bytes": 18284,
+      "sha256": "4c2e09d27e1d8a4e5dc74ccb3c8cd111e313b34e73707e0a3dfeb2a6a917bde4"
+    },
+    {
+      "path": "assets/audio/mechanical/wall-seat.wav",
+      "bytes": 14444,
+      "sha256": "b90fb7a096454098925ce3304f8eb6474f4b5bea3ab279fa552ec339d72993b1"
+    },
+    {
+      "path": "assets/audio/precision/backpackLift.wav",
+      "bytes": 90764,
+      "sha256": "3eb751b81d517b41de363855a132bbe5f90b0072640eadd7a52fbc48450e5f16"
+    },
+    {
+      "path": "assets/audio/precision/backpackSettle.wav",
+      "bytes": 44684,
+      "sha256": "1209201bf47597e560a60ebeda3bcbd1af870bb7680aa929bd60edf25732de26"
+    },
+    {
+      "path": "assets/audio/precision/basketWicker.wav",
+      "bytes": 40364,
+      "sha256": "736f35cadfd4455cca5d2c80b8999f158afce8d0dab0b60835a69414bbc40609"
+    },
+    {
+      "path": "assets/audio/precision/bay-latch.wav",
+      "bytes": 30572,
+      "sha256": "2842bfb741d7a9c883740509dbf3a6003a1d1f98c43515acee872f50a2d6b94c"
+    },
+    {
+      "path": "assets/audio/precision/bedroomLock.wav",
+      "bytes": 34604,
+      "sha256": "3a783b748e5ca4e6c9b22aedb26137503361448139878b457bdf3210a61a4851"
+    },
+    {
+      "path": "assets/audio/precision/benchLinen.wav",
+      "bytes": 56204,
+      "sha256": "c8a4530c6176bd95965d1ab161c8536c09457c2f3c05dec9cc39a1fd8f843163"
+    },
+    {
+      "path": "assets/audio/precision/blockedButton.wav",
+      "bytes": 21644,
+      "sha256": "61b99da92806736188fc5a02fb46bea5b0e77d99c92e2ee21b58f95b298d342c"
+    },
+    {
+      "path": "assets/audio/precision/bookPages.wav",
+      "bytes": 54764,
+      "sha256": "99e6b42aae4646af7349a3704d15f1d9ee82dc90ef46cdac203c7840dc2951f5"
+    },
+    {
+      "path": "assets/audio/precision/clockAligned.wav",
+      "bytes": 24524,
+      "sha256": "5332660cc1f209c9b81d402968760d12110fc1ec73f957ce2a34a59e10dfb2a5"
+    },
+    {
+      "path": "assets/audio/precision/clockRatchet.wav",
+      "bytes": 29564,
+      "sha256": "26b77dc275bf1cadf71309d9db6ad162d870fe1dc36e7c1a3ff539cb15116e80"
+    },
+    {
+      "path": "assets/audio/precision/clockSnap.wav",
+      "bytes": 40364,
+      "sha256": "1b66301dd312ecbfe6cf266d437dfe0ecac44dad641370e0172bf3af05c91339"
+    },
+    {
+      "path": "assets/audio/precision/clockTick-1.wav",
+      "bytes": 19484,
+      "sha256": "ca1850369ce6190cb87910b835ae365131471844b278a071cbba3703c589fe34"
+    },
+    {
+      "path": "assets/audio/precision/clockTick-2.wav",
+      "bytes": 19484,
+      "sha256": "812aabccc54e666b4aa450db5a3267d8a571d3ef27a80bb0e46755d8f1526efd"
+    },
+    {
+      "path": "assets/audio/precision/clockWind.wav",
+      "bytes": 49004,
+      "sha256": "63a7d7df7e771279382b4b9551f8464d3ccdafc9b65a1bbd2a0bf07aac5b8337"
+    },
+    {
+      "path": "assets/audio/precision/clothDrop.wav",
+      "bytes": 28124,
+      "sha256": "c22e263770a662f7edd2f162aca1f6f1b688dabcf6cf8bf6fdbf23060ee417e2"
+    },
+    {
+      "path": "assets/audio/precision/corridorEnd.wav",
+      "bytes": 70604,
+      "sha256": "722ff2b5f026127e24ff5899a8ea0c6054c1656794555bb52f20aadc665be014"
+    },
+    {
+      "path": "assets/audio/precision/corridorFall.wav",
+      "bytes": 53324,
+      "sha256": "596d75852c28f9e2538e630af44cc274076d6a7502e0a0a544486a123e811d78"
+    },
+    {
+      "path": "assets/audio/precision/corridorLatch.wav",
+      "bytes": 43244,
+      "sha256": "f1db3369a68add043bcc4716172cfbe1544cd8ee47bdd2ee9e7e06dc892a4698"
+    },
+    {
+      "path": "assets/audio/precision/cuff.wav",
+      "bytes": 43244,
+      "sha256": "90c48e6b9d6d1e93417ee1e3573ec89c3df61de38357c5c62c02ba62ba7eefe1"
+    },
+    {
+      "path": "assets/audio/precision/cup.wav",
+      "bytes": 22364,
+      "sha256": "5cd0e75d380de8b0d0825661136afb076ebabe10c2a04b16f17b9fa60790d674"
+    },
+    {
+      "path": "assets/audio/precision/cupSetDown.wav",
+      "bytes": 28844,
+      "sha256": "745f04baaf4ecc2e2b22ca577e0537ac6e8a12ae304ede6276f064ae37f8e2c3"
+    },
+    {
+      "path": "assets/audio/precision/curtainGrip.wav",
+      "bytes": 41804,
+      "sha256": "ec4d131fdc895cf526ab99c4a33aeff2c7288525e51839c515dce47fdcc6a84e"
+    },
+    {
+      "path": "assets/audio/precision/curtainSlide.wav",
+      "bytes": 87884,
+      "sha256": "7d4dd3e09ac6cefd5551d964866322a43bd0f8274ad7dd9845b7e2e6847ffc03"
+    },
+    {
+      "path": "assets/audio/precision/curtainStop.wav",
+      "bytes": 24524,
+      "sha256": "8de9e11559b3cdd3aa409ce1edb0dfd1b55b1fa41c109be1d7662606783e4fda"
+    },
+    {
+      "path": "assets/audio/precision/deck-air.wav",
+      "bytes": 27404,
+      "sha256": "4438eb4b695b7f5f9513def4baf628df420dc7143805cf61f4361e3f2245dad5"
+    },
+    {
+      "path": "assets/audio/precision/deck-align.wav",
+      "bytes": 26972,
+      "sha256": "7d6778e4cbf02e96b8657cde2c530e0e512a79be911740448938bd2533cae511"
+    },
+    {
+      "path": "assets/audio/precision/deck-bottom.wav",
+      "bytes": 35180,
+      "sha256": "e8d7a9cb48db83f51891461e5f0f2a158c0e1fcdb784e736f023eaa09569ea47"
+    },
+    {
+      "path": "assets/audio/precision/deck-contact.wav",
+      "bytes": 34748,
+      "sha256": "9390387babd9af6a8623dba5ff180762a12da0344e064f7745f8190099a67d44"
+    },
+    {
+      "path": "assets/audio/precision/deck-drop.wav",
+      "bytes": 28268,
+      "sha256": "cc9e3af4952fe8679d332874c20df89133402c0346cc77c0a449848326be26c6"
+    },
+    {
+      "path": "assets/audio/precision/deck-flush.wav",
+      "bytes": 27404,
+      "sha256": "e24700f4398c6fa346cc7e5e736bcedd145143280df6e74db5a12b292db8ac83"
+    },
+    {
+      "path": "assets/audio/precision/deck-lock.wav",
+      "bytes": 21644,
+      "sha256": "03e8200605e9bb818bc9b69f2414a799ec971eb6cf2480f844e7a1b9670ab439"
+    },
+    {
+      "path": "assets/audio/precision/deck-rise.wav",
+      "bytes": 53324,
+      "sha256": "857f940bad349f36bca873f94fac1656cb5984d1b7dff428347b559f233fdb0f"
+    },
+    {
+      "path": "assets/audio/precision/deck-shuttle.wav",
+      "bytes": 29564,
+      "sha256": "ce90959b9e86ca3a07b359eab3d08063a940600e5d8ee8987a81c1d497af24e3"
+    },
+    {
+      "path": "assets/audio/precision/deck-unlock.wav",
+      "bytes": 18764,
+      "sha256": "17aa97a145a6d774af758ee34dc59767f46ec2e8d37d627ef781470a48e61241"
+    },
+    {
+      "path": "assets/audio/precision/doorClose.wav",
+      "bytes": 87884,
+      "sha256": "1b1d0b42c6f07345cfbdeda719828cc53af36e9ccc630e850bfd412ed5fae806"
+    },
+    {
+      "path": "assets/audio/precision/doorLatch.wav",
+      "bytes": 96524,
+      "sha256": "fe848f7a2073b81145a28ee3d869d3010118382ad079df5d6794883b8662ee15"
+    },
+    {
+      "path": "assets/audio/precision/doorLocked.wav",
+      "bytes": 36044,
+      "sha256": "5812ec07a7e62faac54d77fdb2986ccd73601cab68534319176b2a686972cb9e"
+    },
+    {
+      "path": "assets/audio/precision/duvetGrip.wav",
+      "bytes": 57644,
+      "sha256": "d8307f3103f2f9f06f55ff1cc39e2ccef172dc27155cef4441dcc437cdb5d094"
+    },
+    {
+      "path": "assets/audio/precision/duvetLift.wav",
+      "bytes": 115244,
+      "sha256": "99849e54a8855457ca3e6b86bfe8866f2dd43f915fb710ca1fdb558a920e913d"
+    },
+    {
+      "path": "assets/audio/precision/duvetSettle.wav",
+      "bytes": 44684,
+      "sha256": "ad2fa2baae8376c294f47cc2ef6db4ecaa8f061042b3254612ad580bb7eccee9"
+    },
+    {
+      "path": "assets/audio/precision/duvetSlide.wav",
+      "bytes": 108044,
+      "sha256": "1b7c46159159bccf8140f3f684ef9233c208e68456456c4c2252a0df390894ac"
+    },
+    {
+      "path": "assets/audio/precision/entryBlocked.wav",
+      "bytes": 53324,
+      "sha256": "d88bac3a769cb99a7cfa0b814fc21241784473885c458220290ecdbbeab79a7b"
+    },
+    {
+      "path": "assets/audio/precision/entryHandle.wav",
+      "bytes": 83564,
+      "sha256": "4bc98a66b373bc5f529e05f796b84bf012f0735ffd67df5c2d22a9dbf195cfae"
+    },
+    {
+      "path": "assets/audio/precision/floorButton.wav",
+      "bytes": 15884,
+      "sha256": "5085dbad83f8314555d682311ed6f49ab4c767bd45075a4f4d34771d8db5de01"
+    },
+    {
+      "path": "assets/audio/precision/fragmentBounce.wav",
+      "bytes": 17324,
+      "sha256": "87490770afccd24b2c93700894696b06f8fb665d19b5176a9d0247901568e732"
+    },
+    {
+      "path": "assets/audio/precision/fragmentHit.wav",
+      "bytes": 61964,
+      "sha256": "fcaf6ae07fc0c9bd2d00a87e06031ec311ec5cd2e938c78456b089e0a0608789"
+    },
+    {
+      "path": "assets/audio/precision/frame-load.wav",
+      "bytes": 35756,
+      "sha256": "8409c646dc59711f89d24f66c0e9da604421ceb6630ffe0e7b1ecdb25f860387"
+    },
+    {
+      "path": "assets/audio/precision/frameDrag.wav",
+      "bytes": 38924,
+      "sha256": "faad0b4230aed2df7cf473ff71986fc9eebf6938771a3e37e3e7cdd89e13c626"
+    },
+    {
+      "path": "assets/audio/precision/frameLatch.wav",
+      "bytes": 36044,
+      "sha256": "e137faa1628c44f63919d7e28f840889465405a7313075dafb0764f72c2ffa75"
+    },
+    {
+      "path": "assets/audio/precision/framePeek.wav",
+      "bytes": 46124,
+      "sha256": "b530eaaf9b46680fe49a8511582ba59b026662e40528bc23e73bfa91fb155548"
+    },
+    {
+      "path": "assets/audio/precision/gantry-seat.wav",
+      "bytes": 39212,
+      "sha256": "72dc8f62da2a57d662a38fd56f8a0a3b3a69794247357cf1e2e406ff9efcd18a"
+    },
+    {
+      "path": "assets/audio/precision/gantry-travel.wav",
+      "bytes": 43244,
+      "sha256": "a6aa847c1c1cd7a68a4743cc5063516be169def455b17d6cf546e7a1fb02d3e3"
+    },
+    {
+      "path": "assets/audio/precision/glassRim.wav",
+      "bytes": 33164,
+      "sha256": "1ef86d8a8007db81a1d60046c9e6f7db8de200f50a400cf9a71c7b717e959678"
+    },
+    {
+      "path": "assets/audio/precision/glassesHinge.wav",
+      "bytes": 23084,
+      "sha256": "276ef6f7471c7bdfa884e466155ef512f855421f128a7c88b6c1672ceb1b07f9"
+    },
+    {
+      "path": "assets/audio/precision/key.wav",
+      "bytes": 31724,
+      "sha256": "f05839ed07f8afff267627123908ffd13957cf30a136add8577bd16b5367031b"
+    },
+    {
+      "path": "assets/audio/precision/lampSwitch.wav",
+      "bytes": 13724,
+      "sha256": "1f4817d0df299d8cfcf5399998162e4e6b22ae6cb2cdafece75fa0c20a914829"
+    },
+    {
+      "path": "assets/audio/precision/landingBlocked.wav",
+      "bytes": 41804,
+      "sha256": "de8ea272bbff2000dd350fb881a620bb674f94c4567dc85f3ca54cc9a3cc37ed"
+    },
+    {
+      "path": "assets/audio/precision/landingHandle.wav",
+      "bytes": 22364,
+      "sha256": "6a07dc5f76fbad9cecd520ba4ffbaec895736756b54beee59f082b7e4528b8aa"
+    },
+    {
+      "path": "assets/audio/precision/liftCallButton.wav",
+      "bytes": 21644,
+      "sha256": "1ff3ab7b94f9e4c6a997f38ac8103d62f70e5f453e1a93afb750ca55c45598d0"
+    },
+    {
+      "path": "assets/audio/precision/liftCircuit.wav",
+      "bytes": 23084,
+      "sha256": "4a90604d7b1b35ab5397b6f1075d32a0873ed41fe8f2697f62ead3525d38816a"
+    },
+    {
+      "path": "assets/audio/precision/liftClose.wav",
+      "bytes": 178604,
+      "sha256": "04e1144231c58d94aca657411438938e13bab4c5e0ba11a401c4664b04fc0c0a"
+    },
+    {
+      "path": "assets/audio/precision/liftDing.wav",
+      "bytes": 172844,
+      "sha256": "3e7bf8c8d0d4940a269f8f8ad4a91a4ec878d8b12a94e1c674a8bd198aaa6c4c"
+    },
+    {
+      "path": "assets/audio/precision/liftDoors.wav",
+      "bytes": 187244,
+      "sha256": "cc9c62627d17a3f816bd20cb7becc2498bd6adc6689a77fa4923d6372de73fa8"
+    },
+    {
+      "path": "assets/audio/precision/liftRide.wav",
+      "bytes": 864044,
+      "sha256": "99e874d24a29632059a2d09d3f63008a5b97c26a7b3ff2c0cb163b813e78746d"
+    },
+    {
+      "path": "assets/audio/precision/liftSettle.wav",
+      "bytes": 72044,
+      "sha256": "7f7ff2c852f7c2ee5f91f2c959e1e99a186bd48cdce8a75d15f0fc3794529c2b"
+    },
+    {
+      "path": "assets/audio/precision/lightBuzz.wav",
+      "bytes": 108044,
+      "sha256": "fd212211abe68b626011c1b0003cf4f8238f452d0580e685ab61b5cb87e4b268"
+    },
+    {
+      "path": "assets/audio/precision/mirrorContact.wav",
+      "bytes": 23084,
+      "sha256": "7fd284a9471ea34483c0101b4051e902596e91f440780f8de6ef40160cfd60ee"
+    },
+    {
+      "path": "assets/audio/precision/monitorSwitch.wav",
+      "bytes": 19052,
+      "sha256": "95fd0a3b3b3d2a18fcd324a0c65efa3b7f4345157ecbd78d2f665a40a84e4c6d"
+    },
+    {
+      "path": "assets/audio/precision/paperGlossy.wav",
+      "bytes": 25964,
+      "sha256": "4f946e7b0fe3e1d1f2ffad7c7487cdde32122a0a9d5d8ecbf73334ac4eaa69a6"
+    },
+    {
+      "path": "assets/audio/precision/paperLaminated.wav",
+      "bytes": 25964,
+      "sha256": "c6fc2ced4334a3fbf8dd3192a3093d1c0cab5304b8cc4348296053344a02e706"
+    },
+    {
+      "path": "assets/audio/precision/paperMatte.wav",
+      "bytes": 33884,
+      "sha256": "50cd140a06ebe002037082dba891cb2c7659c3e9c624aba0c0e9ffff155ec353"
+    },
+    {
+      "path": "assets/audio/precision/paperMounted.wav",
+      "bytes": 28844,
+      "sha256": "ba84126f55963bd345ab18e014e805b8dd76787a728810d0e0a447e2fb18323e"
+    },
+    {
+      "path": "assets/audio/precision/phoneAppTap.wav",
+      "bytes": 15164,
+      "sha256": "8e2fa983c3b0f316ef93889b93f9db3142df00639980ecc620734dfc9112ffb3"
+    },
+    {
+      "path": "assets/audio/precision/phoneBackTap.wav",
+      "bytes": 13004,
+      "sha256": "b16fb96123f5cf8faa5c1b0f38df155451d4a2802cc9cc49c67e3baf4a27d28d"
+    },
+    {
+      "path": "assets/audio/precision/phoneDown.wav",
+      "bytes": 20204,
+      "sha256": "e158e93ea85166864f8f09d6eacc73433743b132a61c40ee4faef2101b0739ad"
+    },
+    {
+      "path": "assets/audio/precision/phoneLift.wav",
+      "bytes": 40364,
+      "sha256": "12823b225b1629782b0f55a2f32ede8b089012a29743ab701ebee28a0d360170"
+    },
+    {
+      "path": "assets/audio/precision/phoneTap.wav",
+      "bytes": 13004,
+      "sha256": "58d577c9c718c6406bcad0a6a0557b5da638e575ced60e91fef9f2e53e6e3779"
+    },
+    {
+      "path": "assets/audio/precision/pictureFrame.wav",
+      "bytes": 21644,
+      "sha256": "13ae86094a58259f1c66812f923fe6f5969eef92560024299df0355b9ab2bde6"
+    },
+    {
+      "path": "assets/audio/precision/piston-out.wav",
+      "bytes": 46124,
+      "sha256": "0cdf3f2d5fefe70c79398f6dc44884cb21e43acf50edb9f38a42a7380bfed624"
+    },
+    {
+      "path": "assets/audio/precision/piston-return.wav",
+      "bytes": 40652,
+      "sha256": "f7b3725964a8de38457cfacdbe1351d1c21ff654e7a04912db9f63a999ecaecf"
+    },
+    {
+      "path": "assets/audio/precision/plushGrab.wav",
+      "bytes": 31724,
+      "sha256": "2e5d42a8d053d3ae89b87472a7b6cf5f02ecea33f10f93cb78434b3df42caf7f"
+    },
+    {
+      "path": "assets/audio/precision/plushLand.wav",
+      "bytes": 31004,
+      "sha256": "ea61270267287021060916af71b28065ccf82ce50f484257c1cad9829bee8db6"
+    },
+    {
+      "path": "assets/audio/precision/plushToss.wav",
+      "bytes": 41804,
+      "sha256": "09a2caae4ebd3cf2a90262a6eaab5049a13120aa931c6c612656645a32ab9377"
+    },
+    {
+      "path": "assets/audio/precision/porcelain.wav",
+      "bytes": 27404,
+      "sha256": "9392a9a38e4e52da222c7475f0cfd7d59e72d37bc8e4715c1b97b32feda03bf5"
+    },
+    {
+      "path": "assets/audio/precision/pressure-entry.wav",
+      "bytes": 49004,
+      "sha256": "73cb346f8335777ddbd08c4148d47e51e9ecfda09dc5aacd434f5ab2411366c8"
+    },
+    {
+      "path": "assets/audio/precision/pressure-hall.wav",
+      "bytes": 56204,
+      "sha256": "34b4c58021686c073a66f7faa39f857ea1652a6bada7b321621d7fb5dd0d8c49"
+    },
+    {
+      "path": "assets/audio/precision/rail-traverse.wav",
+      "bytes": 34604,
+      "sha256": "25820acccec628413fc9a996e3b15b83ff74c2234000c12fee0c57788ccf9c37"
+    },
+    {
+      "path": "assets/audio/precision/replayDoor.wav",
+      "bytes": 61964,
+      "sha256": "0d67bfee0e6fc2cd0dfa7b6b56a427fbab8d93af672682654d04204870e6711d"
+    },
+    {
+      "path": "assets/audio/precision/residentHandle.wav",
+      "bytes": 47564,
+      "sha256": "b1bbdb8c146deb6c266558603b14e336fcf0348489d2b644e3dcaa1a4f218ca3"
+    },
+    {
+      "path": "assets/audio/precision/roomAir.wav",
+      "bytes": 792044,
+      "sha256": "9fded86190ab34abca891296846d9cc4485e5ace53dd89e487edb274060d0516"
+    },
+    {
+      "path": "assets/audio/precision/shutter.wav",
+      "bytes": 27059,
+      "sha256": "8481420830dd2f3f2e588b9592557323ed96a504401135ab0cfa1194b8d4127a"
+    },
+    {
+      "path": "assets/audio/precision/sip-1.wav",
+      "bytes": 54188,
+      "sha256": "5ef8fd3fb9e7ebfb2a31c268701ccfefff3cedbbca1deecf7105a1b0426117e3"
+    },
+    {
+      "path": "assets/audio/precision/sip-2.wav",
+      "bytes": 53174,
+      "sha256": "48e3da09895aa4e8cf9e123c57bcdfafa11e571b6a06753118d289421e6d1c9f"
+    },
+    {
+      "path": "assets/audio/precision/sleep.wav",
+      "bytes": 158444,
+      "sha256": "8a7d83733da52d0ed69c639fb0771f5fad6b273c36216271d2727b5b40c7b8e3"
+    },
+    {
+      "path": "assets/audio/precision/sleeve-catch.wav",
+      "bytes": 26108,
+      "sha256": "0745e62011caf102c6ef83b29bd18a10908edc5d18d4e17fece428b30990b38d"
+    },
+    {
+      "path": "assets/audio/precision/stepHard-1.wav",
+      "bytes": 18452,
+      "sha256": "218e947d4d9f6295575b0315c474fc222a86e066fdd7e71d742f8c4b2c81231e"
+    },
+    {
+      "path": "assets/audio/precision/stepHard-2.wav",
+      "bytes": 14321,
+      "sha256": "d82c91456cd269eb87a61bb7c2bd19669edd350ff12bcc97e61a7c15b4646250"
+    },
+    {
+      "path": "assets/audio/precision/stepHard-3.wav",
+      "bytes": 11651,
+      "sha256": "38a4f7bb2759022794f0ef071a3e94ec710d5f293c6fec42add56721f4887585"
+    },
+    {
+      "path": "assets/audio/precision/stepLift-1.wav",
+      "bytes": 19646,
+      "sha256": "d55a78ffdaa4a32031e8e71580d40db67a5a14d5b40dd571a6909e84e39e30fe"
+    },
+    {
+      "path": "assets/audio/precision/stepLift-2.wav",
+      "bytes": 19205,
+      "sha256": "e19baa62826492cd10317a572c1c5aa0a54a8d37b04565e362ece0875aa5da04"
+    },
+    {
+      "path": "assets/audio/precision/stepRug-1.wav",
+      "bytes": 30284,
+      "sha256": "af8a17767f8516eb0b1e3d60b4a95f3d5ec737a8a4ea072edec39c783f940671"
+    },
+    {
+      "path": "assets/audio/precision/stepRug-2.wav",
+      "bytes": 30284,
+      "sha256": "a1c400403763fcae1e712e4895295788a2ae7f6a32c98c7dff380891b3ca105c"
+    },
+    {
+      "path": "assets/audio/precision/stepWood-1.wav",
+      "bytes": 36044,
+      "sha256": "fa1676f080c2b19845c7aa6a69b0a3d2d2dbeb13ed0126d80a5839f9a85a686a"
+    },
+    {
+      "path": "assets/audio/precision/stepWood-2.wav",
+      "bytes": 36044,
+      "sha256": "006a4a1859190b63c059ae4b7775858c6fa94bae3d2e1afe9d1235be1b5579d7"
+    },
+    {
+      "path": "assets/audio/precision/stepWood-3.wav",
+      "bytes": 32264,
+      "sha256": "f048690f26bd7a5293cdd9e21db3bcffbc1975b4035cc46731a125cbea258d34"
+    },
+    {
+      "path": "assets/audio/precision/thresholdAir.wav",
+      "bytes": 936044,
+      "sha256": "2f4f99a702210d4dc0904ffdc973651760f55cad35c2acb67da0a0d978b14d75"
+    },
+    {
+      "path": "assets/audio/precision/thresholdGrip.wav",
+      "bytes": 25244,
+      "sha256": "2cb7adfcbd06ed81987cef73dd553f4f422b8e239769798d2c9d38cb799c93ee"
+    },
+    {
+      "path": "assets/audio/precision/thresholdSeat.wav",
+      "bytes": 37484,
+      "sha256": "9de74fe4c384882691e5ea63938902cc2a8af01469e0974669bae59ea9656add"
+    },
+    {
+      "path": "assets/audio/precision/thresholdSlide.wav",
+      "bytes": 31724,
+      "sha256": "d2e39ba181d1daf35b896dd822aa782c862ec0a37976aabd233301a32a625293"
+    },
+    {
+      "path": "assets/audio/precision/wall-preload.wav",
+      "bytes": 20780,
+      "sha256": "53a6f649d6336f65290dbdd8e05ac445d89d3c2e960ad0331e826b4b29d9b73f"
+    },
+    {
+      "path": "assets/audio/precision/wall-release.wav",
+      "bytes": 26252,
+      "sha256": "1ea17e62cf03b972cb4f98eaf8afa247051532dc64e6fb34cd068c1329fe6c84"
+    },
+    {
+      "path": "assets/audio/precision/wall-seat.wav",
+      "bytes": 19484,
+      "sha256": "334dbbda71773c7d462d1cec93a3e5b395da877ffd550e0b9412ed087d7f8cc1"
+    },
+    {
+      "path": "assets/audio/precision/wall-settle.wav",
+      "bytes": 22940,
+      "sha256": "79a15042ae16834abcb5985c97d1f8cc1e62d7dbb5e0b7bdef3344efb6ba747b"
+    },
+    {
+      "path": "assets/audio/precision/zipper.wav",
+      "bytes": 67724,
+      "sha256": "b1dec286d6e166ded85fd11348e9ad4d74aa0b8d5e9bb0c10840644135a40769"
+    },
+    {
+      "path": "assets/basis_transcoder-VXdx5NbI.wasm",
+      "bytes": 527333,
+      "sha256": "6cf17dc889352c42e9acf8897107978d127005fe3386c36a0e3845e27967630a"
+    },
+    {
+      "path": "assets/basis_transcoder-o4Hde_L7.js",
+      "bytes": 57529,
+      "sha256": "8478b5b6d6b74e7d3082b89f6417321d8d1dc0307f2b30d4484bb11b441696a1"
+    },
+    {
+      "path": "assets/hdrDecode.worker-Cu-yP6yp.js",
+      "bytes": 95165,
+      "sha256": "df0b38814719b26b3ad68d9e7e7adcc07eee7d6cba790bcf1f370b0ce88673a6"
+    },
+    {
+      "path": "assets/index-Bcx6ON7V.css",
+      "bytes": 6754,
+      "sha256": "46c1b6a8f7578e27d370ac1db5bafca75358a92353372e4c2796bfedb0d73db4"
+    },
+    {
+      "path": "assets/index-D5tWw1PM.js",
+      "bytes": 5612417,
+      "sha256": "6f69fb72175a2574b0fde07f655aae88f59ce82c300a838f026908574c91ba89"
+    },
+    {
+      "path": "assets/models/ceramic_vase_01_1k.glb",
+      "bytes": 417508,
+      "sha256": "62fdb2d5c998099b946e8a55a6ef83457950452516d4f882ca39cf035cac4b83"
+    },
+    {
+      "path": "assets/models/cloud-rabbit.glb",
+      "bytes": 350316,
+      "sha256": "f2cfba4e6a993caf28fafd34cdea08faa7bf9a3f15ad9206d54160a9e7645291"
+    },
+    {
+      "path": "assets/models/corner-sofa-lod1.glb",
+      "bytes": 3431856,
+      "sha256": "46de80e567ce010ada64d49ed8c909baaa882b51e98409e1624bda38e2f1cf73"
+    },
+    {
+      "path": "assets/models/double-bed-interactive.glb",
+      "bytes": 1099272,
+      "sha256": "609508ca0d267edaaa88fdaf8b8ebcf44e6f3457e0593b7ce55922f0e3120934"
+    },
+    {
+      "path": "assets/models/hero-hand.glb",
+      "bytes": 506696,
+      "sha256": "4e9a6219f4147f80fbd29cd4c349e1ae1d59d436d81822a0da8247984cb2d4e9"
+    },
+    {
+      "path": "assets/models/reflection-head.glb",
+      "bytes": 211864,
+      "sha256": "ac91c1ee46b1331bb4f3b4c6e4c6750fdd0a2ab6f295c08d30447982c5cad49c"
+    },
+    {
+      "path": "assets/models/throw_pillows_01_1k.glb",
+      "bytes": 1192660,
+      "sha256": "35dfc626f9b64dd5d36b3c567235490aee4b57dfadc0606ffe7f648eb672e9be"
+    },
+    {
+      "path": "assets/p3-passages/Canvas-Color.webp",
+      "bytes": 1600658,
+      "sha256": "93c50edae5c541f6c6eec7fda0d2fbae3d02f340c5925f3540b2b6007e1be8cd"
+    },
+    {
+      "path": "assets/p3-passages/Canvas-Normal.webp",
+      "bytes": 5564720,
+      "sha256": "9ca53302071686e5adeca8513e5f8769471720980e8245b975489565bdd5817a"
+    },
+    {
+      "path": "assets/p3-passages/Canvas-ORM.webp",
+      "bytes": 2596498,
+      "sha256": "542339c72dc18d994d2d024126bfbfd331f5df6a4b24d4fc4e30f09bf65ab1b4"
+    },
+    {
+      "path": "assets/p3-passages/Concrete-Color.webp",
+      "bytes": 1381580,
+      "sha256": "c9847daa3e0e22401407c31638638ed872eb31d2d8e3a6783f03edabc90151cf"
+    },
+    {
+      "path": "assets/p3-passages/Concrete-Normal.webp",
+      "bytes": 6573692,
+      "sha256": "60877c0bee6abe7027674ef1087715f980f745649bf215b9fa342b2f5ae224e9"
+    },
+    {
+      "path": "assets/p3-passages/Concrete-ORM.webp",
+      "bytes": 2015266,
+      "sha256": "262a8ba4daca4230affabf53760e15affd8c90192135ee5768a105f1c5e0575a"
+    },
+    {
+      "path": "assets/p3-passages/DaylightGallery-Probe.hdr",
+      "bytes": 793616,
+      "sha256": "3c97a6282933aaffed079609cd4dd059ef5ff5926d28d755ba1c64b993d618e6"
+    },
+    {
+      "path": "assets/p3-passages/DaylightGallery.hdr",
+      "bytes": 4526833,
+      "sha256": "6704f6eca02afdb89e92a49c83cd19d3ccbddf7c33198dca5bc50321741f68ce"
+    },
+    {
+      "path": "assets/p3-passages/Diffuser-Color.webp",
+      "bytes": 317442,
+      "sha256": "0d4bc7d837bdaf653a55d65c6411e95c0211df756a38b17dbef3584338c8e005"
+    },
+    {
+      "path": "assets/p3-passages/Diffuser-Normal.webp",
+      "bytes": 2763066,
+      "sha256": "b9b8eeab6303e0f3224cee70e8c1a8ee2de95a81da10097d2ea4aaaf9ecb9554"
+    },
+    {
+      "path": "assets/p3-passages/Diffuser-ORM.webp",
+      "bytes": 2078674,
+      "sha256": "96c917d89865dc17aa93fc1061d659c3ef2bf4bef1a11b5e0afac1d35de30e6c"
+    },
+    {
+      "path": "assets/p3-passages/Enamel-Color.webp",
+      "bytes": 4905942,
+      "sha256": "c92ef6e3f2a51b1fae4ef46b8523f6480a54eb29a2578d5bce3c1734e3e3fc0e"
+    },
+    {
+      "path": "assets/p3-passages/Enamel-Normal.webp",
+      "bytes": 19446928,
+      "sha256": "47f588da82ffc6a92994e36f786594ddd0e0497657f98729fc166cb62beee28d"
+    },
+    {
+      "path": "assets/p3-passages/Enamel-ORM.webp",
+      "bytes": 8568072,
+      "sha256": "9fdc7423f8ac86fc33cc933ced2ccfe86cdac18c628f81fcc93a7cc14c6bcac1"
+    },
+    {
+      "path": "assets/p3-passages/ExposedDwelling-Probe.hdr",
+      "bytes": 729505,
+      "sha256": "b5f11f78658c6bd89f593fdef36d47281e0f21952270592cf193aac7ee49c3cf"
+    },
+    {
+      "path": "assets/p3-passages/ExposedDwelling.hdr",
+      "bytes": 5983262,
+      "sha256": "5365b3fb888830243c0b697e540668fa989e249ece3f983c4814e453c463aac5"
+    },
+    {
+      "path": "assets/p3-passages/Glass-Color.webp",
+      "bytes": 300826,
+      "sha256": "a8794c6e0a3a343e2a54e05c6cdb3adaf21450becfece96b7469083cfabed730"
+    },
+    {
+      "path": "assets/p3-passages/Glass-Normal.webp",
+      "bytes": 3013918,
+      "sha256": "70b8e44be0560f70e31b39bc0faa5e607d14ddf92d618fd3dcc6afa56c251d0c"
+    },
+    {
+      "path": "assets/p3-passages/Glass-ORM.webp",
+      "bytes": 2035178,
+      "sha256": "708a21113304c79e2b69f56a835d8979a08d53e1943d48ef0fd40cddce95ec3d"
+    },
+    {
+      "path": "assets/p3-passages/Oak-Color.webp",
+      "bytes": 5337910,
+      "sha256": "bcec4ae210bcd08a81f36c74db1e82500b123acae4f2f9c845935815d4c5d763"
+    },
+    {
+      "path": "assets/p3-passages/Oak-Normal.webp",
+      "bytes": 19647202,
+      "sha256": "cd42393e10c3167d693e1a240a4f0814dc3afbd376b7da16fb19b53a10259903"
+    },
+    {
+      "path": "assets/p3-passages/Oak-ORM.webp",
+      "bytes": 11255426,
+      "sha256": "ad450d9686c7a098d09a7bf6d8853aa9714e992c6b703a04877e091c2621f85b"
+    },
+    {
+      "path": "assets/p3-passages/Plaster-Color.webp",
+      "bytes": 668736,
+      "sha256": "1ec4d156a8c512d43b80830fbcddfa09018279760022de0d47ed390b36d965fa"
+    },
+    {
+      "path": "assets/p3-passages/Plaster-Normal.webp",
+      "bytes": 5004500,
+      "sha256": "0434be03c77e2ec83706d79b9f5d806721962bdf157535b46630228779783370"
+    },
+    {
+      "path": "assets/p3-passages/Plaster-ORM.webp",
+      "bytes": 2032872,
+      "sha256": "c37c0b78fcd1b570379c08d1dd47bee7f3a2e01df4ee58ec65faad7df0d7a7e9"
+    },
+    {
+      "path": "assets/p3-passages/Rubber-Color.webp",
+      "bytes": 815568,
+      "sha256": "a33a7c30732113901618c6346983af1f82e6dad7549802dc29c467526bf433f0"
+    },
+    {
+      "path": "assets/p3-passages/Rubber-Normal.webp",
+      "bytes": 4250666,
+      "sha256": "4183b3f83c191bd97fa18e6f3051ca5917edbcd916a9d59ade92f524a0cb28f5"
+    },
+    {
+      "path": "assets/p3-passages/Rubber-ORM.webp",
+      "bytes": 2176500,
+      "sha256": "ab33ba5f148337cef07b4c3d0b4897ada7dda6ffd90317f949d53e63376879ff"
+    },
+    {
+      "path": "assets/p3-passages/Steel-Color.webp",
+      "bytes": 455472,
+      "sha256": "0477555effee4322ca93d10827ac6c9371530a591d3e13c308a87a78307b9b9b"
+    },
+    {
+      "path": "assets/p3-passages/Steel-Normal.webp",
+      "bytes": 4541704,
+      "sha256": "41ff632d57026412424cd48b9b9a203f1f02358f692dc6575ae97882841b1dfa"
+    },
+    {
+      "path": "assets/p3-passages/Steel-ORM.webp",
+      "bytes": 2440038,
+      "sha256": "c8353819c486e6bd1997ff0dfa26a18647399687aa35aa2200522e06143ff8e6"
+    },
+    {
+      "path": "assets/p3-passages/Terrazzo-Color.webp",
+      "bytes": 1993190,
+      "sha256": "8555678002da8c884b2ffca705d18740058a66855d12b5fbc48f7969bd4bdcdc"
+    },
+    {
+      "path": "assets/p3-passages/Terrazzo-Normal.webp",
+      "bytes": 7934158,
+      "sha256": "99e5f3da005a9afa84cf868b240910da9b50e818329e004216359a6cfc24beb2"
+    },
+    {
+      "path": "assets/p3-passages/Terrazzo-ORM.webp",
+      "bytes": 2620770,
+      "sha256": "bbf83ca75fe3c69e83b66a448a6b375b4b964f0aaa445688d4cf941bec126aac"
+    },
+    {
+      "path": "assets/p3-passages/TileCream-Color.webp",
+      "bytes": 1993108,
+      "sha256": "91082ada0d934e8b57c17ec4ba24d6480ba8856b8b8097c57ab66fb6f8cdbffb"
+    },
+    {
+      "path": "assets/p3-passages/TileCream-Normal.webp",
+      "bytes": 7721826,
+      "sha256": "b8e84bac114a00aa66e289c1f3698cc9f676fc30071b0f13116f1842ad5ed43e"
+    },
+    {
+      "path": "assets/p3-passages/TileCream-ORM.webp",
+      "bytes": 2599368,
+      "sha256": "699f2105d3da86fc2d51f2ae6bea167345fa6b5546ad07982b77b714fc1ed34c"
+    },
+    {
+      "path": "assets/p3-passages/WaitingGallery-Probe.hdr",
+      "bytes": 686362,
+      "sha256": "681203598536c868dd5450acac7516198570b444ea356313824eafd41775c967"
+    },
+    {
+      "path": "assets/p3-passages/WaitingGallery.hdr",
+      "bytes": 4770879,
+      "sha256": "a18ef6344575bf98e3038fc52d15508c2f68d1eda9abe3d08f3c217406abe146"
+    },
+    {
+      "path": "assets/p3-passages/corridors.glb",
+      "bytes": 7127856,
+      "sha256": "311f54a16c1d7aa0166fc53f47e752daefd1ebb73b5184a0c3580999742f0265"
+    },
+    {
+      "path": "assets/posters/after-the-bell.webp",
+      "bytes": 75430,
+      "sha256": "8ef3b94e25ebfabb5879a583388549d6108ea4276667255721016c9058b5c76a"
+    },
+    {
+      "path": "assets/posters/blue-hour.jpg",
+      "bytes": 112219,
+      "sha256": "6ceb367b92419af1bead8f95b018098cf8d8e47ebb43855c97cdccefcc7c4206"
+    },
+    {
+      "path": "assets/posters/paper-moon.webp",
+      "bytes": 96426,
+      "sha256": "b3d6d1db644a96f59a3d560ab96d8298987d922b8c2d4588137d2b1c6d0e7433"
+    },
+    {
+      "path": "assets/posters/small-orbits.jpg",
+      "bytes": 124835,
+      "sha256": "23df414754b596ad2828f846f772c08afc8ec85dd5371ff51db60d1d335d9375"
+    },
+    {
+      "path": "assets/textures/Concrete046_1K-JPG_Color.jpg",
+      "bytes": 1092354,
+      "sha256": "2f155b85c2656305815e94a0efcc0b0087c141e52e98395cc03eb906252150af"
+    },
+    {
+      "path": "assets/textures/Concrete046_1K-JPG_NormalGL.jpg",
+      "bytes": 1080228,
+      "sha256": "b7fb7d45f85bad9e1c61f544e90077735f8f787cd13d3c1161aece11082fe9ff"
+    },
+    {
+      "path": "assets/textures/Concrete046_1K-JPG_Roughness.jpg",
+      "bytes": 671268,
+      "sha256": "ee79cf1139197522ac6ed6dad2d9c0429626cd8f2e107aaaf9daa1f4f30e7d7d"
+    },
+    {
+      "path": "assets/textures/Fabric036_1K-JPG_Color.jpg",
+      "bytes": 628346,
+      "sha256": "d786e4a1c229f96f781667d062817e14fdbf2ffaba81d38f4fcc04c39a0062d4"
+    },
+    {
+      "path": "assets/textures/Fabric036_1K-JPG_NormalGL.jpg",
+      "bytes": 2521262,
+      "sha256": "b9c2153b5f78b8d1ee0529b5d8e3174fa25accb4131e425aa18b808efede4feb"
+    },
+    {
+      "path": "assets/textures/Fabric036_1K-JPG_Roughness.jpg",
+      "bytes": 710098,
+      "sha256": "9ad01f95163602e6ae63c4ced864edc9b8347936b51e3f49f89e64e868f995fd"
+    },
+    {
+      "path": "assets/textures/Metal012_1K-JPG_Color.jpg",
+      "bytes": 412556,
+      "sha256": "9d32b9bbcf071433a3ed69f0409cc11886bb3c554300acaf0da93a92a2059e5b"
+    },
+    {
+      "path": "assets/textures/Metal012_1K-JPG_NormalGL.jpg",
+      "bytes": 580484,
+      "sha256": "6ea43f0b48f5fc7d1d11ead571c22f11233053e2a1926c5e21ea27de7d3a4287"
+    },
+    {
+      "path": "assets/textures/Metal012_1K-JPG_Roughness.jpg",
+      "bytes": 452778,
+      "sha256": "d808a07ffe8786a8b410dfa29f19b0a31492e450256dd9191bb9731e110dba40"
+    },
+    {
+      "path": "assets/textures/Metal032_1K-JPG_NormalGL.jpg",
+      "bytes": 341948,
+      "sha256": "8537c1015de5cc33d20231e5b6aa27309edcb983e1c37e608d08bb00f733747d"
+    },
+    {
+      "path": "assets/textures/Metal032_1K-JPG_Roughness.jpg",
+      "bytes": 404875,
+      "sha256": "55d3eee2b69008ad3701b18977495531d0e3515105102e56f40a4d1098d10bce"
+    },
+    {
+      "path": "assets/textures/Plaster004_1K-JPG_Color.jpg",
+      "bytes": 1093948,
+      "sha256": "ea7bcf4c5af54df095300caeb4179a601b9126d08fe38d273fe71075546919f2"
+    },
+    {
+      "path": "assets/textures/Plaster004_1K-JPG_NormalGL.jpg",
+      "bytes": 2237930,
+      "sha256": "d4f7af819be607020c06c7ef70d659d0584430dd598e148f5f9ac18fd877c909"
+    },
+    {
+      "path": "assets/textures/Plaster004_1K-JPG_Roughness.jpg",
+      "bytes": 604413,
+      "sha256": "4755ea52a42515be051976f6bcac0bab31a9417de864939b0ec1c83153cb1c8b"
+    },
+    {
+      "path": "assets/textures/Plastic006_1K-JPG_NormalGL.jpg",
+      "bytes": 729230,
+      "sha256": "2f5d02f8e9c9e03fc11e2e85f3face2fbec2c4cf8a3880750c7ba80f45d45c8d"
+    },
+    {
+      "path": "assets/textures/Plastic006_1K-JPG_Roughness.jpg",
+      "bytes": 501396,
+      "sha256": "97dce716c6348870334292ace6c28117af8b580f5e840eabf60e7b63105b3f87"
+    },
+    {
+      "path": "assets/textures/Tiles107_1K-JPG_Color.jpg",
+      "bytes": 271201,
+      "sha256": "09bc9cf6e08dc4a58df668df0f2cb30fea54eee48ece77263419222497a05d66"
+    },
+    {
+      "path": "assets/textures/Tiles107_1K-JPG_NormalGL.jpg",
+      "bytes": 560108,
+      "sha256": "9056b78a5e9d6021d54783a4674caadc0647abf43d6ef056d61afea0c31a0915"
+    },
+    {
+      "path": "assets/textures/Tiles107_1K-JPG_Roughness.jpg",
+      "bytes": 208620,
+      "sha256": "24b5813de52fc167c6dcefcaf45ee1097c3323f10c3196a547df0ac9cd6b7fbd"
+    },
+    {
+      "path": "assets/textures/WoodFloor043_1K-JPG_Color.jpg",
+      "bytes": 649557,
+      "sha256": "307c33f1fc5e05f47bfc513a1cca2b6f4f2b179d74d873dd874a24938889cd98"
+    },
+    {
+      "path": "assets/textures/WoodFloor043_1K-JPG_NormalGL.jpg",
+      "bytes": 408639,
+      "sha256": "080491d11ebb4d2c7287c597322d438cc65050d4636a0eb59d4c85dac61418db"
+    },
+    {
+      "path": "assets/textures/WoodFloor043_1K-JPG_Roughness.jpg",
+      "bytes": 216824,
+      "sha256": "01563f4f0d0a095b92abf101be6ed231d7520980185fae429f73e99b94f82be3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5746,
+      "sha256": "171bf5ef8b5df8357b4fed540ca8bfbb53df984a79b01cb1b22c39b4fbdb26ec"
+    }
+  ]
+}
