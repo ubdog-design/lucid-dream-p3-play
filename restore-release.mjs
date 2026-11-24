@@ -11,7 +11,7 @@ async function restore() {
   for(let entry; (entry=manifest.files[next++]); ) {
     const output=resolve(root,entry.path);
     if(!output.startsWith(root+sep)) throw new Error('Invalid release path');
-    const url=new URL(entry.path.split('/').map(encodeURIComponent).join('/'),origin);
+    const url=new URL(entry.path==='index.html' ? './' : entry.path.split('/').map(encodeURIComponent).join('/'),origin);
     let last;
     for(let attempt=0;attempt<4;attempt++){
       try {
