@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en" translate="no">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#141817">
+    <meta name="google" content="notranslate">
+    <title>LUCID DREAM — The Controlled Reality</title>
+    <link rel="icon" href="data:,">
+    <style>:root{--lightningcss-light: ;--lightningcss-dark:initial;color-scheme:dark;color:#f7f3e9;background:#141817;font-family:Segoe UI,sans-serif}body{margin:0}[hidden]{display:none!important}#menu{padding:1.5rem}#reload-game{color:#e5c8a4}</style>
+    <script>
+      window.addEventListener('error', (event) => {
+        if (!(event.target instanceof HTMLScriptElement) || event.target.type !== 'module') return;
+        const showError = () => {
+          if (!document.getElementById('enter')?.disabled) return;
+          let language = navigator.language;
+          try { language = localStorage.getItem('lucid-dream.language') || language; } catch {}
+          const messages = language.startsWith('zh')
+            ? ['游戏文件加载失败，请重新加载。', '重新加载']
+            : language.startsWith('ko') ? ['게임 파일을 불러오지 못했습니다. 새로고침하세요.', '새로고침']
+              : ['The game files could not load. Reload this page.', 'Reload'];
+          document.getElementById('status').textContent = messages[0];
+          document.getElementById('reload-game').textContent = messages[1];
+          document.getElementById('reload-game').hidden = false;
+        };
+        if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', showError, { once: true });
+        else showError();
+      }, true);
+    </script>
+    <script type="module" crossorigin src="./assets/index-D5tWw1PM.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-Bcx6ON7V.css">
+  </head>
+  <body>
+    <main id="view" aria-label="First-person room"></main>
+    <div id="sleep-vision" aria-hidden="true" hidden></div>
+    <div id="eyelids" aria-hidden="true" hidden><div></div><div></div></div>
+    <div id="hud" hidden>
+      <section id="dream-goals" aria-labelledby="dream-goals-title">
+        <h2 id="dream-goals-title" data-copy="goalTitle">Dream notes</h2>
+        <p id="dream-note" aria-live="polite"></p>
+      </section>
+      <div id="monitor-lead" data-copy="monitorLead" hidden></div>
+      <span id="crosshair" aria-hidden="true"></span>
+      <aside id="exhibit" hidden aria-live="polite">
+        <span id="exhibit-line" aria-hidden="true"></span>
+        <div id="exhibit-card"><strong id="exhibit-title"></strong><p id="exhibit-detail"></p><p id="exhibit-action"></p></div>
+      </aside>
+      <div id="photo-guide" hidden>
+        <p id="photo-guide-text"></p>
+        <progress id="photo-guide-progress" max="1" aria-label="Photo alignment"></progress>
+      </div>
+      <div class="story-hud">
+        <p id="story-subtitle" role="status"></p>
+        <p id="prompt" aria-live="polite"></p>
+      </div>
+      <p id="held-key" aria-live="polite" data-copy="heldKey" hidden>Carrying brass fragment</p>
+    </div>
+    <div id="dream-fade" aria-hidden="true"></div>
+    <output id="fps" hidden></output>
+    <p id="notice" role="status" hidden></p>
+    <section id="menu" aria-labelledby="title">
+      <div class="entry">
+        <p id="phase" data-copy="bedroom">THE BEDROOM</p>
+        <h1 id="title"><span data-copy="titleFirst">LUCID</span><br><span data-copy="titleSecond">DREAM</span></h1>
+        <p class="subtitle" data-copy="tagline">The Controlled Reality</p>
+        <label class="language-setting" for="language">
+          <span data-copy="language">Language</span>
+          <select id="language" disabled>
+            <option value="zh-CN" lang="zh-CN">简体中文</option>
+            <option value="en" lang="en" selected>English</option>
+            <option value="ko" lang="ko">한국어</option>
+          </select>
+        </label>
+        <div class="menu-actions">
+          <button id="enter" data-copy="wake" disabled>Wake up</button>
+          <button id="fullscreen" class="secondary" data-copy="fullscreen" hidden>Full screen</button>
+        </div>
+        <p id="status" role="status" data-copy="loading">Loading the room…</p>
+        <a id="reload-game" data-copy="reload" href="" hidden>Reload</a>
+        <noscript><p>Enable JavaScript to start the game. · 请启用 JavaScript。 · JavaScript를 켜 주세요.</p></noscript>
+        <dl class="controls">
+          <div><dt>W A S D</dt><dd data-copy="move">Move</dd></div>
+          <div><dt data-copy="mouse">Mouse</dt><dd data-copy="look">Look</dd></div>
+          <div><dt>E</dt><dd data-copy="inspect">Inspect</dd></div>
+          <div><dt>Esc</dt><dd data-copy="pause">Pause</dd></div>
+          <div><dt>Ctrl</dt><dd data-copy="crouch">Crouch</dd></div>
+          <div><dt>F</dt><dd data-copy="focusLook">Hold to focus</dd></div>
+          <div id="sprint-control" hidden><dt>Shift</dt><dd data-copy="sprint">Sprint</dd></div>
+        </dl>
+        <label class="motion-setting"><input id="reduce-motion" type="checkbox"> <span data-copy="motion">Reduce camera motion</span></label>
+        <label class="language-setting" for="lighting-quality">
+          <span data-copy="lightingQuality">Lighting quality</span>
+          <select id="lighting-quality">
+            <option value="performance" data-copy="lightingPerformance">Performance</option>
+            <option value="balanced" data-copy="lightingBalanced">Balanced</option>
+            <option value="high" data-copy="lightingHigh" selected>High</option>
+          </select>
+        </label>
+      </div>
+    </section>
+  </body>
+</html>
