@@ -7,6 +7,11 @@ const origin=new URL(manifest.origin);
 if(origin.protocol!=='https:' || manifest.files.length!==247) throw new Error('Unexpected release manifest');
 const root=resolve('_site');
 let next=0,done=0;
+async function download(url) {
+  const response=await fetch(url,{redirect:'error',signal:AbortSignal.timeout(60000)});
+  if(!response.ok) throw new Error('HTTP '+response.status);
+  return Buffer.from(await response.arrayBuffer());
+}
 async function restore() {
   for(let entry; (entry=manifest.files[next++]); ) {
     const output=resolve(root,entry.path);
@@ -15,9 +20,7 @@ async function restore() {
     let last;
     for(let attempt=0;attempt<4;attempt++){
       try {
-        const response=await fetch(url,{redirect:'error',signal:AbortSignal.timeout(60000)});
-        if(!response.ok) throw new Error('HTTP '+response.status);
-        const bytes=Buffer.from(await response.arrayBuffer());
+        const bytes=entry.path==='index.html' ? await readFile('release-entry.html') : await download(url);
         if(bytes.length!==entry.bytes || createHash('sha256').update(bytes).digest('hex')!==entry.sha256) throw new Error('file hash mismatch');
         await mkdir(dirname(output),{recursive:true});
         await writeFile(output,bytes);
